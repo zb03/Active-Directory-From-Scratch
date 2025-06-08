@@ -1,1 +1,1 @@
-# Microsoft-Sentinel-Log-Analysis-
+# Active-Directory-From-Scratch
